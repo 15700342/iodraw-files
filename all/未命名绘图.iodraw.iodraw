@@ -4,39 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Ey9ny3glEDTg2jhVY_iM-6" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;dashed=1;fillColor=#D1E0F7;" vertex="1" parent="1">
-          <mxGeometry x="40" y="160" width="130" height="310" as="geometry" />
-        </mxCell>
-        <mxCell id="Ey9ny3glEDTg2jhVY_iM-8" value="&lt;h3 style=&quot;font-size: 13px;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;用户交互与转换处理&lt;/font&gt;&lt;/h3&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="68.75" y="170" width="72.5" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Ey9ny3glEDTg2jhVY_iM-10" value="用户上传代码" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#89a8de;dashed=1;dashPattern=1 4;strokeColor=none;glass=0;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="52.5" y="220" width="105" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Ey9ny3glEDTg2jhVY_iM-11" value="添加任务队列" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#89a8de;shadow=1;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="52.5" y="270" width="105" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Ey9ny3glEDTg2jhVY_iM-12" value="文件逐层剥离提取" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#89a8de;shadow=1;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="52.5" y="320" width="105" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Ey9ny3glEDTg2jhVY_iM-14" value="依赖提取与分析" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#89a8de;shadow=1;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="52.5" y="370" width="105" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Ey9ny3glEDTg2jhVY_iM-15" value="&lt;div&gt;检测报告与&lt;/div&gt;&lt;div&gt;目标代码下载&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#89a8de;shadow=1;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="52.5" y="420" width="105" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Ey9ny3glEDTg2jhVY_iM-16" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#e3ecd7;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="160" width="120" height="350" as="geometry" />
-        </mxCell>
-        <mxCell id="Ey9ny3glEDTg2jhVY_iM-17" value="&lt;h4&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;模型训练与智能转换&lt;/font&gt;&lt;/h4&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="243.75" y="170" width="72.5" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Ey9ny3glEDTg2jhVY_iM-18" value="&lt;div&gt;基底模型&lt;/div&gt;&lt;div&gt;DeepSeek-Coder-V2-Lite-Instruct&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#87a84a;dashed=1;dashPattern=1 4;strokeColor=none;glass=0;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="227.5" y="220" width="105" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="Ey9ny3glEDTg2jhVY_iM-20" value="LoRA模型微调" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#87a84a;dashed=1;dashPattern=1 4;strokeColor=none;glass=0;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="227.5" y="290" width="105" height="30" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
