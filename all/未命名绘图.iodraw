@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:136.0) Gecko/20100101 Firefox/136.0" version="24.7.17">
   <diagram name="第 1 页" id="yyQRlxOKS_sPHynFsY4Z">
-    <mxGraphModel dx="496" dy="292" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1323" dy="778" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -55,7 +55,7 @@
         <mxCell id="6-rXK8bP1Go9IMb86GpH-27" value="&lt;b&gt;数据采集与整理&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=#89a8de;opacity=70;" vertex="1" parent="1">
           <mxGeometry x="40" y="60" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="6-rXK8bP1Go9IMb86GpH-28" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d1e0f7;opacity=80;" vertex="1" parent="1">
+        <mxCell id="6-rXK8bP1Go9IMb86GpH-28" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cd;opacity=80;" vertex="1" parent="1">
           <mxGeometry x="210" y="195" width="120" height="410" as="geometry" />
         </mxCell>
         <mxCell id="6-rXK8bP1Go9IMb86GpH-32" value="RAG检索增强生成" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -137,7 +137,7 @@
           <mxGeometry x="422.5" y="300" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="6-rXK8bP1Go9IMb86GpH-110" value="&lt;div&gt;&lt;font style=&quot;font-size: 7px;&quot;&gt;查找依赖&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 7px;&quot;&gt;是否存在&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" vertex="1" parent="1">
-          <mxGeometry x="322.5" y="231.25" width="60" height="20" as="geometry" />
+          <mxGeometry x="330" y="225" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="6-rXK8bP1Go9IMb86GpH-111" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" target="6-rXK8bP1Go9IMb86GpH-107">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -324,10 +324,14 @@
             <mxPoint x="610" y="560" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6-rXK8bP1Go9IMb86GpH-173" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="6-rXK8bP1Go9IMb86GpH-173" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="6-rXK8bP1Go9IMb86GpH-106" target="6-rXK8bP1Go9IMb86GpH-47">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="360" y="320" as="sourcePoint" />
             <mxPoint x="410" y="270" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="340" y="221" />
+              <mxPoint x="340" y="425" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
