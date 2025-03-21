@@ -34,7 +34,7 @@
         <mxCell id="Ey9ny3glEDTg2jhVY_iM-17" value="&lt;h4 style=&quot;font-size: 13px;&quot;&gt;智能转换与自动生成&lt;/h4&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="243.75" y="170" width="72.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Ey9ny3glEDTg2jhVY_iM-18" value="用户上传代码" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#89a8de;dashed=1;dashPattern=1 4;strokeColor=none;glass=0;shadow=1;" vertex="1" parent="1">
+        <mxCell id="Ey9ny3glEDTg2jhVY_iM-18" value="用户上传代码" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#87a84a;dashed=1;dashPattern=1 4;strokeColor=none;glass=0;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="227.5" y="220" width="105" height="30" as="geometry" />
         </mxCell>
       </root>
