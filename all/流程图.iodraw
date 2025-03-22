@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:136.0) Gecko/20100101 Firefox/136.0" version="24.7.17">
   <diagram name="第 1 页" id="yyQRlxOKS_sPHynFsY4Z">
-    <mxGraphModel dx="-271" dy="311" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#e6f2ff" math="0" shadow="0">
+    <mxGraphModel dx="334" dy="667" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#e6f2ff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -56,7 +56,7 @@
           <mxGeometry x="857" y="343" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="6-rXK8bP1Go9IMb86GpH-28" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0e846;opacity=80;" parent="1" vertex="1">
-          <mxGeometry x="1093" y="478" width="151" height="410" as="geometry" />
+          <mxGeometry x="1077.5" y="478" width="151" height="410" as="geometry" />
         </mxCell>
         <mxCell id="6-rXK8bP1Go9IMb86GpH-32" value="RAG检索增强生成" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1100.5" y="738" width="105" height="30" as="geometry" />
@@ -101,7 +101,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="6-rXK8bP1Go9IMb86GpH-86" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3ecd7;opacity=80;" parent="1" vertex="1">
-          <mxGeometry x="1324.5" y="388" width="120" height="610" as="geometry" />
+          <mxGeometry x="1309" y="388" width="151" height="610" as="geometry" />
         </mxCell>
         <mxCell id="6-rXK8bP1Go9IMb86GpH-88" value="文件逐层剥离" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1344.5" y="443" width="80" height="25" as="geometry" />
@@ -259,7 +259,7 @@
           <mxGeometry x="1364.5" y="743" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="6-rXK8bP1Go9IMb86GpH-137" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eecdc6;opacity=80;" parent="1" vertex="1">
-          <mxGeometry x="1563" y="448" width="120" height="460" as="geometry" />
+          <mxGeometry x="1547.5" y="453" width="151" height="460" as="geometry" />
         </mxCell>
         <mxCell id="6-rXK8bP1Go9IMb86GpH-139" value="用户上传文件夹" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1593" y="508" width="60" height="30" as="geometry" />
