@@ -92,7 +92,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="hMbeR1NJ0iRWVPtyknTj-20" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="100" width="120" height="60" as="geometry" />
+          <mxGeometry x="70" y="10" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hMbeR1NJ0iRWVPtyknTj-21" value="&lt;div&gt;logo&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="100" y="15" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hMbeR1NJ0iRWVPtyknTj-22" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="10" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hMbeR1NJ0iRWVPtyknTj-23" value="登录" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="650" y="15" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
