@@ -133,6 +133,18 @@
         <mxCell id="hMbeR1NJ0iRWVPtyknTj-33" value="文件名" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="270" y="170" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="hMbeR1NJ0iRWVPtyknTj-34" value="日期" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="330" y="170" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hMbeR1NJ0iRWVPtyknTj-35" value="版本" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="390" y="170" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hMbeR1NJ0iRWVPtyknTj-36" value="类型" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="450" y="170" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hMbeR1NJ0iRWVPtyknTj-37" value="所属知识库" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="510" y="170" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
