@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="afbmW-Zyn4jUycXNRDNx-1" value="ArkTS源码" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="354" y="70" width="120" height="60" as="geometry" />
+          <mxGeometry x="354" y="30" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="afbmW-Zyn4jUycXNRDNx-2" value="&lt;div&gt;CodeLinter&lt;/div&gt;&lt;div&gt;（基于安全规则集）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="200" width="120" height="60" as="geometry" />
@@ -14,7 +14,7 @@
           <mxGeometry x="270" y="200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="afbmW-Zyn4jUycXNRDNx-5" value="静态分析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="120" width="120" height="60" as="geometry" />
+          <mxGeometry x="220" y="120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="afbmW-Zyn4jUycXNRDNx-6" value="动态验证" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="510" y="120" width="120" height="60" as="geometry" />
@@ -42,6 +42,15 @@
         </mxCell>
         <mxCell id="afbmW-Zyn4jUycXNRDNx-14" value="覆盖率/性能报告" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="afbmW-Zyn4jUycXNRDNx-15" value="内存错误日志" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="afbmW-Zyn4jUycXNRDNx-16" value="LLM修复建议" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="afbmW-Zyn4jUycXNRDNx-17" value="综合报告" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="550" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
