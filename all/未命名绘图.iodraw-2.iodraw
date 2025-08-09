@@ -7,6 +7,21 @@
         <mxCell id="0iNuNqxzlzCeLHmK89wu-1" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="110" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="0iNuNqxzlzCeLHmK89wu-2" value="自动审计模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0iNuNqxzlzCeLHmK89wu-3" value="静态测试" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0iNuNqxzlzCeLHmK89wu-4" value="动态测试" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0iNuNqxzlzCeLHmK89wu-5" value="模糊检查" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0iNuNqxzlzCeLHmK89wu-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
