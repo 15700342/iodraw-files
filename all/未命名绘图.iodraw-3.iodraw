@@ -11,46 +11,52 @@
           <mxGeometry x="120" y="200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="afbmW-Zyn4jUycXNRDNx-3" value="&lt;div&gt;CodeFuse&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="270" y="200" width="120" height="60" as="geometry" />
+          <mxGeometry x="280" y="200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="afbmW-Zyn4jUycXNRDNx-5" value="静态分析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="120" width="120" height="60" as="geometry" />
+          <mxGeometry x="200" y="120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="afbmW-Zyn4jUycXNRDNx-6" value="动态验证" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="510" y="120" width="120" height="60" as="geometry" />
+          <mxGeometry x="520" y="120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="afbmW-Zyn4jUycXNRDNx-7" value="单元测试" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="460" y="200" width="120" height="60" as="geometry" />
+          <mxGeometry x="440" y="200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="afbmW-Zyn4jUycXNRDNx-8" value="UI测试" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="460" y="280" width="120" height="60" as="geometry" />
+          <mxGeometry x="440" y="280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="afbmW-Zyn4jUycXNRDNx-9" value="hvigorw构建" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="630" y="200" width="120" height="60" as="geometry" />
+          <mxGeometry x="600" y="200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="afbmW-Zyn4jUycXNRDNx-10" value="内存检测" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="630" y="280" width="120" height="60" as="geometry" />
+          <mxGeometry x="600" y="280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="afbmW-Zyn4jUycXNRDNx-11" value="构建可查询数据库" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="270" y="280" width="120" height="60" as="geometry" />
+          <mxGeometry x="280" y="280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="afbmW-Zyn4jUycXNRDNx-12" value="静态分析报告" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="360" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="afbmW-Zyn4jUycXNRDNx-13" value="数据驱动查询结果" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="270" y="360" width="120" height="60" as="geometry" />
+          <mxGeometry x="280" y="360" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="afbmW-Zyn4jUycXNRDNx-14" value="覆盖率/性能报告" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="460" y="360" width="120" height="60" as="geometry" />
+          <mxGeometry x="440" y="360" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="afbmW-Zyn4jUycXNRDNx-15" value="内存错误日志" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="630" y="360" width="120" height="60" as="geometry" />
+          <mxGeometry x="600" y="360" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="afbmW-Zyn4jUycXNRDNx-16" value="LLM修复建议" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="354" y="450" width="120" height="60" as="geometry" />
+          <mxGeometry x="354" y="460" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="afbmW-Zyn4jUycXNRDNx-17" value="综合报告" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="354" y="550" width="120" height="60" as="geometry" />
+          <mxGeometry x="354" y="555" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="afbmW-Zyn4jUycXNRDNx-19" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="260" as="sourcePoint" />
+            <mxPoint x="440" y="210" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
