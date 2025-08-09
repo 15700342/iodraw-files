@@ -8,16 +8,16 @@
           <mxGeometry x="280" y="110" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="0iNuNqxzlzCeLHmK89wu-2" value="自动审计模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="200" width="120" height="60" as="geometry" />
+          <mxGeometry x="280" y="200" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="0iNuNqxzlzCeLHmK89wu-3" value="静态测试" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="70" y="290" width="120" height="60" as="geometry" />
+          <mxGeometry x="70" y="290" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="0iNuNqxzlzCeLHmK89wu-4" value="动态测试" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="290" width="120" height="60" as="geometry" />
+          <mxGeometry x="280" y="290" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="0iNuNqxzlzCeLHmK89wu-5" value="模糊检查" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="490" y="290" width="120" height="60" as="geometry" />
+          <mxGeometry x="490" y="290" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="0iNuNqxzlzCeLHmK89wu-6" value="单元逻辑验证" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="390" width="100" height="50" as="geometry" />
@@ -26,7 +26,7 @@
           <mxGeometry x="370" y="390" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="0iNuNqxzlzCeLHmK89wu-8" value="报告与日志" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="510" width="120" height="60" as="geometry" />
+          <mxGeometry x="280" y="500" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0iNuNqxzlzCeLHmK89wu-9" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="0iNuNqxzlzCeLHmK89wu-1" target="0iNuNqxzlzCeLHmK89wu-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -45,7 +45,17 @@
             <mxPoint x="390" y="380" as="sourcePoint" />
             <mxPoint x="440" y="330" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="120" y="270" />
+              <mxPoint x="340" y="270" />
+              <mxPoint x="124" y="270" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0iNuNqxzlzCeLHmK89wu-13" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="0iNuNqxzlzCeLHmK89wu-2" target="0iNuNqxzlzCeLHmK89wu-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="370" as="sourcePoint" />
+            <mxPoint x="440" y="320" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="340" y="270" />
             </Array>
           </mxGeometry>
         </mxCell>
