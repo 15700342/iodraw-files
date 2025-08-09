@@ -11,7 +11,16 @@
           <mxGeometry x="120" y="200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="afbmW-Zyn4jUycXNRDNx-3" value="&lt;div&gt;CodeFuse&lt;/div&gt;&lt;div&gt;（构建可查询数据库）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="270" y="200" width="120" height="60" as="geometry" />
+          <mxGeometry x="270" y="200" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="afbmW-Zyn4jUycXNRDNx-5" value="静态分析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="afbmW-Zyn4jUycXNRDNx-6" value="动态验证" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="afbmW-Zyn4jUycXNRDNx-7" value="单元测试" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="200" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
