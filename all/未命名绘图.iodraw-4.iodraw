@@ -4,22 +4,22 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="0Oh_kAIDXic-h5bPZWxv-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="0Oh_kAIDXic-h5bPZWxv-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="70" y="180" width="220" height="210" as="geometry" />
         </mxCell>
         <mxCell id="0Oh_kAIDXic-h5bPZWxv-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="0Oh_kAIDXic-h5bPZWxv-2" target="0Oh_kAIDXic-h5bPZWxv-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0Oh_kAIDXic-h5bPZWxv-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="0Oh_kAIDXic-h5bPZWxv-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="320" y="180" width="220" height="210" as="geometry" />
         </mxCell>
-        <mxCell id="0Oh_kAIDXic-h5bPZWxv-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="0Oh_kAIDXic-h5bPZWxv-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="570" y="180" width="220" height="210" as="geometry" />
         </mxCell>
         <mxCell id="0Oh_kAIDXic-h5bPZWxv-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="0Oh_kAIDXic-h5bPZWxv-4" target="0Oh_kAIDXic-h5bPZWxv-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0Oh_kAIDXic-h5bPZWxv-4" value="JS项目" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="0Oh_kAIDXic-h5bPZWxv-4" value="JS项目" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="135" y="200" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="0Oh_kAIDXic-h5bPZWxv-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="0Oh_kAIDXic-h5bPZWxv-5" target="0Oh_kAIDXic-h5bPZWxv-6">
@@ -64,11 +64,20 @@
         <mxCell id="0Oh_kAIDXic-h5bPZWxv-15" value="目标ArkTS代码" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="350" width="120" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="0Oh_kAIDXic-h5bPZWxv-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="0Oh_kAIDXic-h5bPZWxv-20" target="0Oh_kAIDXic-h5bPZWxv-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="0Oh_kAIDXic-h5bPZWxv-20" value="安全检测" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="620" y="200" width="120" height="50" as="geometry" />
+          <mxGeometry x="620" y="200" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0Oh_kAIDXic-h5bPZWxv-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="0Oh_kAIDXic-h5bPZWxv-21" target="0Oh_kAIDXic-h5bPZWxv-22">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0Oh_kAIDXic-h5bPZWxv-21" value="性能检查" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="620" y="270" width="120" height="60" as="geometry" />
+          <mxGeometry x="620" y="265" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0Oh_kAIDXic-h5bPZWxv-22" value="项目检测报告" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="330" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
