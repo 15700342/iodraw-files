@@ -7,6 +7,9 @@
         <mxCell id="0Oh_kAIDXic-h5bPZWxv-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="70" y="180" width="220" height="210" as="geometry" />
         </mxCell>
+        <mxCell id="0Oh_kAIDXic-h5bPZWxv-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="0Oh_kAIDXic-h5bPZWxv-2" target="0Oh_kAIDXic-h5bPZWxv-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="0Oh_kAIDXic-h5bPZWxv-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="180" width="220" height="210" as="geometry" />
         </mxCell>
@@ -40,17 +43,32 @@
             <mxPoint x="440" y="230" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="0Oh_kAIDXic-h5bPZWxv-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="0Oh_kAIDXic-h5bPZWxv-12" target="0Oh_kAIDXic-h5bPZWxv-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="0Oh_kAIDXic-h5bPZWxv-12" value="跨语言映射知识库" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="375" y="200" width="125" height="30" as="geometry" />
+          <mxGeometry x="370" y="200" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0Oh_kAIDXic-h5bPZWxv-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="0Oh_kAIDXic-h5bPZWxv-13" target="0Oh_kAIDXic-h5bPZWxv-14">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0Oh_kAIDXic-h5bPZWxv-13" value="RAG搜索增强生成" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="250" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0Oh_kAIDXic-h5bPZWxv-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="0Oh_kAIDXic-h5bPZWxv-14" target="0Oh_kAIDXic-h5bPZWxv-15">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0Oh_kAIDXic-h5bPZWxv-14" value="DeepSeek代码转换" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="300" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0Oh_kAIDXic-h5bPZWxv-15" value="目标ArkTS代码" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="350" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0Oh_kAIDXic-h5bPZWxv-20" value="安全检测" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="200" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="0Oh_kAIDXic-h5bPZWxv-21" value="性能检查" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="270" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
