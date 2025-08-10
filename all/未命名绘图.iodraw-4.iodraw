@@ -41,10 +41,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="0Oh_kAIDXic-h5bPZWxv-12" value="跨语言映射知识库" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="375" y="200" width="110" height="30" as="geometry" />
+          <mxGeometry x="375" y="200" width="125" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0Oh_kAIDXic-h5bPZWxv-13" value="RAG搜索增强生成" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="370" y="240" width="120" height="30" as="geometry" />
+          <mxGeometry x="370" y="250" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0Oh_kAIDXic-h5bPZWxv-14" value="DeepSeek代码转换" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="300" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0Oh_kAIDXic-h5bPZWxv-15" value="目标ArkTS代码" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="350" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
