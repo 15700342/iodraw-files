@@ -4,57 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="BF5Q-9eXkWk6nbNNr2hq-1" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="130" width="70" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="BF5Q-9eXkWk6nbNNr2hq-2" value="&lt;span class=&quot;router-outlet-wrapper ng-tns-c3250827703-0&quot;&gt;&lt;span class=&quot;ng-star-inserted&quot;&gt; &lt;/span&gt;&lt;strong class=&quot;ng-star-inserted&quot;&gt;&lt;span class=&quot;ng-star-inserted&quot;&gt;文献调研与问题定义&lt;/span&gt;&lt;/strong&gt;&lt;span class=&quot;ng-star-inserted&quot;&gt;&lt;/span&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="175" y="190" width="120" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="BF5Q-9eXkWk6nbNNr2hq-3" value="&#xa;&lt;span class=&quot;router-outlet-wrapper ng-tns-c3250827703-0&quot;&gt;&lt;strong class=&quot;ng-star-inserted&quot;&gt;&lt;span class=&quot;ng-star-inserted&quot;&gt;系统集成与实验验证&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="175" y="270" width="120" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="BF5Q-9eXkWk6nbNNr2hq-4" value="&lt;span class=&quot;router-outlet-wrapper ng-tns-c3250827703-0&quot;&gt;&lt;strong class=&quot;ng-star-inserted&quot;&gt;&lt;span class=&quot;ng-star-inserted&quot;&gt;系统集成与实验验证&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="175" y="350" width="120" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="BF5Q-9eXkWk6nbNNr2hq-6" value="&lt;span class=&quot;router-outlet-wrapper ng-tns-c3250827703-0&quot;&gt;&lt;strong class=&quot;ng-star-inserted&quot;&gt;&lt;span class=&quot;ng-star-inserted&quot;&gt;结果分析与论文撰写&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="175" y="430" width="120" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="BF5Q-9eXkWk6nbNNr2hq-7" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="202.5" y="510" width="65" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="BF5Q-9eXkWk6nbNNr2hq-8" value="&lt;div&gt;&lt;span class=&quot;router-outlet-wrapper ng-tns-c3250827703-0&quot;&gt;&lt;span class=&quot;ng-star-inserted&quot;&gt;梳理Drain/SelfLog优缺点&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span class=&quot;router-outlet-wrapper ng-tns-c3250827703-0&quot;&gt;&lt;span class=&quot;ng-star-inserted&quot;&gt;确立LogBERT+LLM技术路线&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="354" y="180" width="206" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="BF5Q-9eXkWk6nbNNr2hq-9" value="&lt;div&gt;&lt;span class=&quot;router-outlet-wrapper ng-tns-c3250827703-0&quot;&gt;&lt;span class=&quot;ng-star-inserted&quot;&gt; 预处理模块&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span class=&quot;router-outlet-wrapper ng-tns-c3250827703-0&quot;&gt;&lt;span class=&quot;ng-star-inserted&quot;&gt;Faiss索引构建&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span class=&quot;router-outlet-wrapper ng-tns-c3250827703-0&quot;&gt;&lt;span class=&quot;ng-star-inserted&quot;&gt;RAG提示词设计&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span class=&quot;router-outlet-wrapper ng-tns-c3250827703-0&quot;&gt;&lt;span class=&quot;ng-star-inserted&quot;&gt;增量聚类算法&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="354" y="280" width="206" height="85" as="geometry" />
-        </mxCell>
-        <mxCell id="BF5Q-9eXkWk6nbNNr2hq-10" value="&lt;div&gt;&lt;span class=&quot;router-outlet-wrapper ng-tns-c3250827703-0&quot;&gt;&lt;span class=&quot;ng-star-inserted&quot;&gt; LogHub数据集测试&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span class=&quot;router-outlet-wrapper ng-tns-c3250827703-0&quot;&gt;&lt;span class=&quot;ng-star-inserted&quot;&gt;消融实验&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span class=&quot;router-outlet-wrapper ng-tns-c3250827703-0&quot;&gt;&lt;span class=&quot;ng-star-inserted&quot;&gt;性能指标评估（PA/GA/Latency）&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="354" y="390" width="206" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="BF5Q-9eXkWk6nbNNr2hq-11" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BF5Q-9eXkWk6nbNNr2hq-2" target="BF5Q-9eXkWk6nbNNr2hq-8">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="390" y="350" as="sourcePoint" />
-            <mxPoint x="440" y="300" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="BF5Q-9eXkWk6nbNNr2hq-12" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BF5Q-9eXkWk6nbNNr2hq-3" target="BF5Q-9eXkWk6nbNNr2hq-9">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="390" y="350" as="sourcePoint" />
-            <mxPoint x="440" y="300" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="BF5Q-9eXkWk6nbNNr2hq-13" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BF5Q-9eXkWk6nbNNr2hq-4" target="BF5Q-9eXkWk6nbNNr2hq-10">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="390" y="350" as="sourcePoint" />
-            <mxPoint x="440" y="300" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="BF5Q-9eXkWk6nbNNr2hq-14" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="BF5Q-9eXkWk6nbNNr2hq-1" target="BF5Q-9eXkWk6nbNNr2hq-2">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="390" y="350" as="sourcePoint" />
-            <mxPoint x="440" y="300" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
