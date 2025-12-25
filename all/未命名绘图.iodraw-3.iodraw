@@ -7,49 +7,49 @@
         <mxCell id="afbmW-Zyn4jUycXNRDNx-1" value="ArkTS源码" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="354" y="20" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="afbmW-Zyn4jUycXNRDNx-2" value="&lt;div&gt;CodeLinter&lt;/div&gt;&lt;div&gt;（基于安全规则集）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="afbmW-Zyn4jUycXNRDNx-2" value="&lt;div&gt;CodeLinter&lt;/div&gt;&lt;div&gt;（基于安全规则集）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="120" y="200" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="afbmW-Zyn4jUycXNRDNx-3" value="&lt;div&gt;CodeFuse&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="afbmW-Zyn4jUycXNRDNx-3" value="&lt;div&gt;CodeFuse&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="280" y="200" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="afbmW-Zyn4jUycXNRDNx-5" value="静态分析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="afbmW-Zyn4jUycXNRDNx-5" value="静态分析" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="200" y="120" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="afbmW-Zyn4jUycXNRDNx-6" value="动态验证" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="afbmW-Zyn4jUycXNRDNx-6" value="动态验证" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="520" y="120" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="afbmW-Zyn4jUycXNRDNx-7" value="单元测试" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="afbmW-Zyn4jUycXNRDNx-7" value="单元测试" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="440" y="200" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="afbmW-Zyn4jUycXNRDNx-8" value="UI测试" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="afbmW-Zyn4jUycXNRDNx-8" value="UI测试" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="440" y="280" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="afbmW-Zyn4jUycXNRDNx-9" value="hvigorw构建" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="afbmW-Zyn4jUycXNRDNx-9" value="hvigorw构建" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="600" y="200" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="afbmW-Zyn4jUycXNRDNx-10" value="内存检测" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="afbmW-Zyn4jUycXNRDNx-10" value="内存检测" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="600" y="280" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="afbmW-Zyn4jUycXNRDNx-11" value="构建可查询数据库" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="afbmW-Zyn4jUycXNRDNx-11" value="构建可查询数据库" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="280" y="280" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="afbmW-Zyn4jUycXNRDNx-12" value="静态分析报告" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="afbmW-Zyn4jUycXNRDNx-12" value="静态分析报告" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="120" y="360" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="afbmW-Zyn4jUycXNRDNx-13" value="数据驱动查询结果" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="afbmW-Zyn4jUycXNRDNx-13" value="数据驱动查询结果" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="280" y="360" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="afbmW-Zyn4jUycXNRDNx-14" value="覆盖率/性能报告" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="afbmW-Zyn4jUycXNRDNx-14" value="覆盖率/性能报告" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="440" y="360" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="afbmW-Zyn4jUycXNRDNx-15" value="内存错误日志" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="afbmW-Zyn4jUycXNRDNx-15" value="内存错误日志" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="600" y="360" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="afbmW-Zyn4jUycXNRDNx-16" value="LLM修复建议" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="afbmW-Zyn4jUycXNRDNx-16" value="LLM修复建议" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="354" y="460" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="afbmW-Zyn4jUycXNRDNx-17" value="综合报告" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="afbmW-Zyn4jUycXNRDNx-17" value="综合报告" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="354" y="550" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="afbmW-Zyn4jUycXNRDNx-19" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="afbmW-Zyn4jUycXNRDNx-1" target="afbmW-Zyn4jUycXNRDNx-5">
