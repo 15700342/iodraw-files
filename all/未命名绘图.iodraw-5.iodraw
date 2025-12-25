@@ -16,6 +16,12 @@
         <mxCell id="4NWqadzTfI00LQil20FI-5" value="LogBERT编码器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="195" y="260" width="125" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="4NWqadzTfI00LQil20FI-6" value="特征向量" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="195" y="320" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4NWqadzTfI00LQil20FI-7" value="相似度是否超过阈值判定" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="165" y="380" width="180" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
