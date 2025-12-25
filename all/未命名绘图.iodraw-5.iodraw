@@ -19,6 +19,12 @@
         <mxCell id="BF5Q-9eXkWk6nbNNr2hq-6" value="&lt;span class=&quot;router-outlet-wrapper ng-tns-c3250827703-0&quot;&gt;&lt;strong class=&quot;ng-star-inserted&quot;&gt;&lt;span class=&quot;ng-star-inserted&quot;&gt;结果分析与论文撰写&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="175" y="430" width="120" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="BF5Q-9eXkWk6nbNNr2hq-7" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="202.5" y="510" width="65" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BF5Q-9eXkWk6nbNNr2hq-8" value="&lt;span class=&quot;router-outlet-wrapper ng-tns-c3250827703-0&quot;&gt;&lt;span class=&quot;ng-star-inserted&quot;&gt;梳理Drain/SelfLog优缺点、确立LogBERT+LLM技术路线&lt;/span&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="180" width="206" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
