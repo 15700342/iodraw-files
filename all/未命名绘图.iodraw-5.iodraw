@@ -10,8 +10,14 @@
         <mxCell id="BF5Q-9eXkWk6nbNNr2hq-2" value="&lt;span class=&quot;router-outlet-wrapper ng-tns-c3250827703-0&quot;&gt;&lt;span class=&quot;ng-star-inserted&quot;&gt; &lt;/span&gt;&lt;strong class=&quot;ng-star-inserted&quot;&gt;&lt;span class=&quot;ng-star-inserted&quot;&gt;文献调研与问题定义&lt;/span&gt;&lt;/strong&gt;&lt;span class=&quot;ng-star-inserted&quot;&gt;&lt;/span&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="175" y="190" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="BF5Q-9eXkWk6nbNNr2hq-3" value="&lt;div&gt;&lt;span class=&quot;router-outlet-wrapper ng-tns-c3250827703-0&quot;&gt;&lt;strong class=&quot;ng-star-inserted&quot;&gt;&lt;span class=&quot;ng-star-inserted&quot;&gt;系统架构设计&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span class=&quot;router-outlet-wrapper ng-tns-c3250827703-0&quot;&gt;&lt;strong class=&quot;ng-star-inserted&quot;&gt;&lt;span class=&quot;ng-star-inserted&quot;&gt;与模块开发&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="BF5Q-9eXkWk6nbNNr2hq-3" value="&#xa;&lt;span class=&quot;router-outlet-wrapper ng-tns-c3250827703-0&quot;&gt;&lt;strong class=&quot;ng-star-inserted&quot;&gt;&lt;span class=&quot;ng-star-inserted&quot;&gt;系统集成与实验验证&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="175" y="270" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="BF5Q-9eXkWk6nbNNr2hq-4" value="&lt;span class=&quot;router-outlet-wrapper ng-tns-c3250827703-0&quot;&gt;&lt;strong class=&quot;ng-star-inserted&quot;&gt;&lt;span class=&quot;ng-star-inserted&quot;&gt;系统集成与实验验证&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="175" y="350" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="BF5Q-9eXkWk6nbNNr2hq-6" value="&lt;span class=&quot;router-outlet-wrapper ng-tns-c3250827703-0&quot;&gt;&lt;strong class=&quot;ng-star-inserted&quot;&gt;&lt;span class=&quot;ng-star-inserted&quot;&gt;结果分析与论文撰写&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="175" y="430" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
