@@ -73,6 +73,15 @@
         <mxCell id="AIGeeCGK6C_SOiFP52Fc-19" value="相似度" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="384" y="210" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="AIGeeCGK6C_SOiFP52Fc-21" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="420" width="210" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="AIGeeCGK6C_SOiFP52Fc-22" value="安全知识更新" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="237.5" y="430" width="75" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AIGeeCGK6C_SOiFP52Fc-23" value="抗污染校验+location观察+晋升/拒绝" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="470" width="190" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
