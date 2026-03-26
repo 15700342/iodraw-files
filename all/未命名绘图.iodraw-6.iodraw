@@ -4,10 +4,10 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="AIGeeCGK6C_SOiFP52Fc-1" value="日志输入流" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="AIGeeCGK6C_SOiFP52Fc-1" value="日志输入流" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="80" y="170" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="AIGeeCGK6C_SOiFP52Fc-2" value="BERT编码器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="AIGeeCGK6C_SOiFP52Fc-2" value="BERT编码器" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="230" y="170" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="AIGeeCGK6C_SOiFP52Fc-3" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="AIGeeCGK6C_SOiFP52Fc-1" target="AIGeeCGK6C_SOiFP52Fc-2">
@@ -19,7 +19,7 @@
         <mxCell id="AIGeeCGK6C_SOiFP52Fc-4" value="日志" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="170" y="160" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="AIGeeCGK6C_SOiFP52Fc-5" value="FAISS检索" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="AIGeeCGK6C_SOiFP52Fc-5" value="FAISS检索" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="380" y="170" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="AIGeeCGK6C_SOiFP52Fc-6" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="AIGeeCGK6C_SOiFP52Fc-2" target="AIGeeCGK6C_SOiFP52Fc-5">
@@ -31,7 +31,7 @@
         <mxCell id="AIGeeCGK6C_SOiFP52Fc-7" value="编码" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="320" y="160" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="AIGeeCGK6C_SOiFP52Fc-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="AIGeeCGK6C_SOiFP52Fc-9" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="170" y="230" width="210" height="90" as="geometry" />
         </mxCell>
         <mxCell id="AIGeeCGK6C_SOiFP52Fc-10" value="动态路由" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -108,11 +108,11 @@
             <mxPoint x="630" y="420" as="sourcePoint" />
             <mxPoint x="680" y="370" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="425" y="410" />
+              <mxPoint x="420" y="410" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="AIGeeCGK6C_SOiFP52Fc-31" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="AIGeeCGK6C_SOiFP52Fc-13">
+        <mxCell id="AIGeeCGK6C_SOiFP52Fc-31" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="AIGeeCGK6C_SOiFP52Fc-13" target="AIGeeCGK6C_SOiFP52Fc-24">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="360" y="350" as="sourcePoint" />
             <mxPoint x="410" y="300" as="targetPoint" />
