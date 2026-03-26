@@ -32,7 +32,13 @@
           <mxGeometry x="320" y="160" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="AIGeeCGK6C_SOiFP52Fc-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="170" y="230" width="120" height="60" as="geometry" />
+          <mxGeometry x="170" y="230" width="210" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="AIGeeCGK6C_SOiFP52Fc-10" value="动态路由" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="245" y="240" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AIGeeCGK6C_SOiFP52Fc-11" value="精确短路" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="350" width="210" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
