@@ -19,14 +19,20 @@
         <mxCell id="AIGeeCGK6C_SOiFP52Fc-4" value="日志" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="170" y="160" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="AIGeeCGK6C_SOiFP52Fc-5" value="BERT编码器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="370" y="170" width="90" height="30" as="geometry" />
+        <mxCell id="AIGeeCGK6C_SOiFP52Fc-5" value="FAISS检索" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="170" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="AIGeeCGK6C_SOiFP52Fc-6" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="AIGeeCGK6C_SOiFP52Fc-2">
+        <mxCell id="AIGeeCGK6C_SOiFP52Fc-6" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="AIGeeCGK6C_SOiFP52Fc-2" target="AIGeeCGK6C_SOiFP52Fc-5">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="360" y="280" as="sourcePoint" />
             <mxPoint x="410" y="230" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="AIGeeCGK6C_SOiFP52Fc-7" value="编码" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="320" y="160" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AIGeeCGK6C_SOiFP52Fc-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="230" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
