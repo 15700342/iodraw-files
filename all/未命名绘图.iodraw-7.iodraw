@@ -16,6 +16,18 @@
         <mxCell id="QpGgAxNsC30jFKTbPVyG-11" value="原始日志" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="85" y="200" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="QpGgAxNsC30jFKTbPVyG-12" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="140" width="140" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="QpGgAxNsC30jFKTbPVyG-13" value="归一化与语义编码" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="150" width="120" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="QpGgAxNsC30jFKTbPVyG-14" value="变量识别" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="220" y="185" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QpGgAxNsC30jFKTbPVyG-15" value="BERT向量" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="220" y="205" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
