@@ -37,8 +37,11 @@
         <mxCell id="QpGgAxNsC30jFKTbPVyG-18" value="Top-K检索" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="392" y="185" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="QpGgAxNsC30jFKTbPVyG-19" value="BERT向量" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="QpGgAxNsC30jFKTbPVyG-19" value="结构评分" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="392" y="205" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QpGgAxNsC30jFKTbPVyG-21" value="&lt;div&gt;自适应&lt;/div&gt;&lt;div&gt;路径选择&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="148" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
