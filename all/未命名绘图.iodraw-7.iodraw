@@ -8,10 +8,10 @@
           <mxGeometry x="60" y="185" width="100" height="95" as="geometry" />
         </mxCell>
         <mxCell id="1zd1U-jo8m0PvcHaNc8H-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="220" y="200" width="120" height="90" as="geometry" />
+          <mxGeometry x="200" y="187.5" width="180" height="112.5" as="geometry" />
         </mxCell>
         <mxCell id="1zd1U-jo8m0PvcHaNc8H-3" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="380" y="200" width="120" height="60" as="geometry" />
+          <mxGeometry x="430" y="70" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1zd1U-jo8m0PvcHaNc8H-4" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="540" y="200" width="120" height="60" as="geometry" />
@@ -21,6 +21,12 @@
         </mxCell>
         <mxCell id="QpGgAxNsC30jFKTbPVyG-4" value="原始日志" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="80" y="250" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QpGgAxNsC30jFKTbPVyG-5" value="归一化与语义编码" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="200" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QpGgAxNsC30jFKTbPVyG-6" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="260" y="240" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
