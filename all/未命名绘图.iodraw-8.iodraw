@@ -16,8 +16,20 @@
         <mxCell id="wq5oKZ0MRR0TGNniPd7u-4" value="日志输入" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="120" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="wq5oKZ0MRR0TGNniPd7u-8" value="日志输入" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="90" y="130" width="80" height="40" as="geometry" />
+        <mxCell id="wq5oKZ0MRR0TGNniPd7u-8" value="归一化" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="120" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wq5oKZ0MRR0TGNniPd7u-9" value="语义编码" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="120" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wq5oKZ0MRR0TGNniPd7u-10" value="Top-K检索" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="120" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wq5oKZ0MRR0TGNniPd7u-11" value="候选重排序" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="120" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wq5oKZ0MRR0TGNniPd7u-12" value="满足本地条件？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="115" width="80" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
