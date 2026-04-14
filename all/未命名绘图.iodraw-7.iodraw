@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:149.0) Gecko/20100101 Firefox/149.0" version="24.7.17">
   <diagram name="第 1 页" id="zwk8xT87ulZ3Qsopx8_f">
-    <mxGraphModel dx="354" dy="222" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="595" dy="374" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -22,7 +22,7 @@
         <mxCell id="QpGgAxNsC30jFKTbPVyG-12" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="140" y="142.5" width="140" height="95" as="geometry" />
         </mxCell>
-        <mxCell id="QpGgAxNsC30jFKTbPVyG-13" value="归一化与语义编码" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="QpGgAxNsC30jFKTbPVyG-13" value="归一化与语义编码" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#80aef4;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="150" y="152.5" width="120" height="35" as="geometry" />
         </mxCell>
         <mxCell id="QpGgAxNsC30jFKTbPVyG-14" value="变量识别" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -50,16 +50,16 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="QpGgAxNsC30jFKTbPVyG-21" value="&lt;div&gt;自适应&lt;/div&gt;&lt;div&gt;路径选择&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="QpGgAxNsC30jFKTbPVyG-21" value="&lt;div&gt;自适应&lt;/div&gt;&lt;div&gt;路径选择&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="480" y="150" width="90" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="QpGgAxNsC30jFKTbPVyG-22" value="本地路径" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="QpGgAxNsC30jFKTbPVyG-22" value="本地路径" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="580" y="128" width="120" height="42" as="geometry" />
         </mxCell>
-        <mxCell id="QpGgAxNsC30jFKTbPVyG-23" value="大模型复核路径" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="QpGgAxNsC30jFKTbPVyG-23" value="大模型复核路径" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="580" y="201.5" width="120" height="42" as="geometry" />
         </mxCell>
-        <mxCell id="QpGgAxNsC30jFKTbPVyG-24" value="结果输出" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="QpGgAxNsC30jFKTbPVyG-24" value="结果输出" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="720" y="160" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QpGgAxNsC30jFKTbPVyG-25" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
