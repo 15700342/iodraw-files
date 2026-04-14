@@ -65,19 +65,19 @@
         <mxCell id="QpGgAxNsC30jFKTbPVyG-25" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="310" width="610" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="QpGgAxNsC30jFKTbPVyG-27" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="QpGgAxNsC30jFKTbPVyG-27" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="120" y="360" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="QpGgAxNsC30jFKTbPVyG-28" value="暂存知识区" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="QpGgAxNsC30jFKTbPVyG-28" value="暂存知识区" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffbd7b;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="140" y="375" width="80" height="35" as="geometry" />
         </mxCell>
         <mxCell id="QpGgAxNsC30jFKTbPVyG-29" value="候选模板" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="150" y="410" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="QpGgAxNsC30jFKTbPVyG-30" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="QpGgAxNsC30jFKTbPVyG-30" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="270" y="360" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="QpGgAxNsC30jFKTbPVyG-31" value="防污染控制" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="QpGgAxNsC30jFKTbPVyG-31" value="防污染控制" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ed807a;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="290" y="375" width="80" height="37.5" as="geometry" />
         </mxCell>
         <mxCell id="QpGgAxNsC30jFKTbPVyG-32" value="回放/泄露/歧义" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -89,13 +89,13 @@
         <mxCell id="QpGgAxNsC30jFKTbPVyG-33" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="420" y="360" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="QpGgAxNsC30jFKTbPVyG-34" value="稳定知识库" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="QpGgAxNsC30jFKTbPVyG-34" value="稳定知识库" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="440" y="375" width="80" height="37.5" as="geometry" />
         </mxCell>
         <mxCell id="QpGgAxNsC30jFKTbPVyG-35" value="已验证模板" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="430" y="410" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="QpGgAxNsC30jFKTbPVyG-37" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="QpGgAxNsC30jFKTbPVyG-37" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="570" y="360" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="QpGgAxNsC30jFKTbPVyG-38" value="精确匹配缓存" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
