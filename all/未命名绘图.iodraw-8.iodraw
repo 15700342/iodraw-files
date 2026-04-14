@@ -8,10 +8,10 @@
           <mxGeometry x="70" y="80" width="630" height="100" as="geometry" />
         </mxCell>
         <mxCell id="wq5oKZ0MRR0TGNniPd7u-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="70" y="210" width="630" height="130" as="geometry" />
+          <mxGeometry x="70" y="210" width="630" height="150" as="geometry" />
         </mxCell>
         <mxCell id="wq5oKZ0MRR0TGNniPd7u-3" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="70" y="380" width="630" height="100" as="geometry" />
+          <mxGeometry x="70" y="430" width="630" height="100" as="geometry" />
         </mxCell>
         <mxCell id="wq5oKZ0MRR0TGNniPd7u-4" value="日志输入" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="120" width="80" height="40" as="geometry" />
@@ -40,8 +40,20 @@
         <mxCell id="wq5oKZ0MRR0TGNniPd7u-15" value="Few-shot提示" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="307" y="260" width="94" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="wq5oKZ0MRR0TGNniPd7u-16" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="294" y="310" width="120" height="60" as="geometry" />
+        <mxCell id="wq5oKZ0MRR0TGNniPd7u-16" value="结构修复" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="294" y="310" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wq5oKZ0MRR0TGNniPd7u-17" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="220" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="wq5oKZ0MRR0TGNniPd7u-18" value="本地模板输出" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="496" y="230" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wq5oKZ0MRR0TGNniPd7u-19" value="缓存或稳定模板" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="503" y="260" width="94" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wq5oKZ0MRR0TGNniPd7u-20" value="结构修复" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="304" y="320" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
