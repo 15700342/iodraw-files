@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:149.0) Gecko/20100101 Firefox/149.0" version="24.7.17">
   <diagram name="第 1 页" id="zwk8xT87ulZ3Qsopx8_f">
-    <mxGraphModel dx="744" dy="467" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1145" dy="718" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -41,7 +41,7 @@
           <mxGeometry x="392" y="205" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QpGgAxNsC30jFKTbPVyG-21" value="&lt;div&gt;自适应&lt;/div&gt;&lt;div&gt;路径选择&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="148" width="80" height="80" as="geometry" />
+          <mxGeometry x="520" y="148" width="90" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
