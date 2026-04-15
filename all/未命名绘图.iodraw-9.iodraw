@@ -10,16 +10,16 @@
         <mxCell id="rVNuSVc9j-qtscQkghcH-2" value="生成缓存键" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="150" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="rVNuSVc9j-qtscQkghcH-3" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="rVNuSVc9j-qtscQkghcH-3" value="命中稳定缓存？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="140" width="130" height="80" as="geometry" />
         </mxCell>
         <mxCell id="rVNuSVc9j-qtscQkghcH-4" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="510" y="150" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="rVNuSVc9j-qtscQkghcH-5" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="rVNuSVc9j-qtscQkghcH-5" value="Top-K候选召回" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="270" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="rVNuSVc9j-qtscQkghcH-6" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="rVNuSVc9j-qtscQkghcH-6" value="模板聚合" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="270" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rVNuSVc9j-qtscQkghcH-7" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -28,7 +28,7 @@
         <mxCell id="rVNuSVc9j-qtscQkghcH-8" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="530" y="270" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="rVNuSVc9j-qtscQkghcH-9" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="rVNuSVc9j-qtscQkghcH-9" value="联合判定" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="390" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rVNuSVc9j-qtscQkghcH-10" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
