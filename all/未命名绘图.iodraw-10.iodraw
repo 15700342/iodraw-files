@@ -25,20 +25,20 @@
         <mxCell id="Z3pyiciV5otv7Ie-agOa-9" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="233.75" y="90" width="142.5" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Z3pyiciV5otv7Ie-agOa-10" value="动态泄露检查" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="237.5" y="180" width="115" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="Z3pyiciV5otv7Ie-agOa-11" value="达到观察条件？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="210" width="112.5" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Z3pyiciV5otv7Ie-agOa-12" value="继续暂存观察" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="290" width="115" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="Z3pyiciV5otv7Ie-agOa-13" value="整串回放校验" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="95" width="90" height="30" as="geometry" />
+          <mxGeometry x="250" y="95" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Z3pyiciV5otv7Ie-agOa-14" value="模板能否解释完整日志" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="289" y="450" width="125" height="30" as="geometry" />
+          <mxGeometry x="242.5" y="120" width="125" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Z3pyiciV5otv7Ie-agOa-15" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="233.75" y="170" width="142.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z3pyiciV5otv7Ie-agOa-16" value="动态泄露检查" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="175" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Z3pyiciV5otv7Ie-agOa-17" value="变量内容是否误留为常量" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="242.5" y="200" width="125" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
