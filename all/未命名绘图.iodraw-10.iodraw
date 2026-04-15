@@ -13,16 +13,16 @@
         <mxCell id="Z3pyiciV5otv7Ie-agOa-4" value="支持证据统计" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="57.5" y="215" width="115" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Z3pyiciV5otv7Ie-agOa-5" value="达到观察条件？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Z3pyiciV5otv7Ie-agOa-5" value="达到观察条件？" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="60" y="275" width="112.5" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Z3pyiciV5otv7Ie-agOa-7" value="继续暂存观察" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Z3pyiciV5otv7Ie-agOa-7" value="继续暂存观察" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="60" y="355" width="115" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Z3pyiciV5otv7Ie-agOa-8" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fdedec;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="220" y="70" width="190" height="410" as="geometry" />
         </mxCell>
-        <mxCell id="Z3pyiciV5otv7Ie-agOa-9" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Z3pyiciV5otv7Ie-agOa-9" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="231.88" y="90" width="166.25" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Z3pyiciV5otv7Ie-agOa-13" value="整串回放校验" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -31,37 +31,37 @@
         <mxCell id="Z3pyiciV5otv7Ie-agOa-14" value="模板能否解释完整日志" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="252.5" y="120" width="125" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Z3pyiciV5otv7Ie-agOa-18" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Z3pyiciV5otv7Ie-agOa-18" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="231.88" y="170" width="166.25" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Z3pyiciV5otv7Ie-agOa-19" value="动态泄露检查" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Z3pyiciV5otv7Ie-agOa-19" value="动态泄露检查" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="245" y="175" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Z3pyiciV5otv7Ie-agOa-20" value="变量内容是否误留为常量" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="246.25" y="200" width="137.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Z3pyiciV5otv7Ie-agOa-24" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Z3pyiciV5otv7Ie-agOa-24" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="231.88" y="250" width="166.25" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Z3pyiciV5otv7Ie-agOa-25" value="稳定锚点保护" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Z3pyiciV5otv7Ie-agOa-25" value="稳定锚点保护" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f09793;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="245" y="255" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Z3pyiciV5otv7Ie-agOa-26" value="关键常量是否被误抽象" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="246.25" y="280" width="137.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Z3pyiciV5otv7Ie-agOa-30" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Z3pyiciV5otv7Ie-agOa-30" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="231.88" y="330" width="166.25" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Z3pyiciV5otv7Ie-agOa-31" value="冲突检测" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Z3pyiciV5otv7Ie-agOa-31" value="冲突检测" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f09793;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="245" y="335" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Z3pyiciV5otv7Ie-agOa-32" value="是否与稳定模板冲突" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="246.25" y="360" width="137.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Z3pyiciV5otv7Ie-agOa-33" value="全部检查通过？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Z3pyiciV5otv7Ie-agOa-33" value="全部检查通过？" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="242.5" y="410" width="145" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Z3pyiciV5otv7Ie-agOa-34" value="拒绝写入与审计记录" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Z3pyiciV5otv7Ie-agOa-34" value="拒绝写入与审计记录" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="255" y="500" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Z3pyiciV5otv7Ie-agOa-35" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eef3fd;strokeColor=#6c8ebf;" vertex="1" parent="1">
