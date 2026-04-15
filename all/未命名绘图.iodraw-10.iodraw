@@ -32,13 +32,22 @@
           <mxGeometry x="252.5" y="120" width="125" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Z3pyiciV5otv7Ie-agOa-18" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="241.88" y="100" width="166.25" height="60" as="geometry" />
+          <mxGeometry x="231.88" y="170" width="166.25" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Z3pyiciV5otv7Ie-agOa-19" value="整串回放校验" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="255" y="105" width="140" height="30" as="geometry" />
+        <mxCell id="Z3pyiciV5otv7Ie-agOa-19" value="动态泄露检查" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="245" y="175" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Z3pyiciV5otv7Ie-agOa-20" value="模板能否解释完整日志" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="262.5" y="130" width="125" height="30" as="geometry" />
+        <mxCell id="Z3pyiciV5otv7Ie-agOa-20" value="变量内容是否误留为常量" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="246.25" y="200" width="137.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Z3pyiciV5otv7Ie-agOa-24" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="231.88" y="250" width="166.25" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z3pyiciV5otv7Ie-agOa-25" value="动态泄露检查" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="245" y="255" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Z3pyiciV5otv7Ie-agOa-26" value="变量内容是否误留为常量" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="246.25" y="280" width="137.5" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
