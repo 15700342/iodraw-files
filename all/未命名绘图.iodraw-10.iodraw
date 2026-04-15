@@ -4,13 +4,13 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Z3pyiciV5otv7Ie-agOa-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="Z3pyiciV5otv7Ie-agOa-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff5ec;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="40" y="135" width="150" height="280" as="geometry" />
         </mxCell>
-        <mxCell id="Z3pyiciV5otv7Ie-agOa-2" value="候选模板进入暂存区" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Z3pyiciV5otv7Ie-agOa-2" value="候选模板进入暂存区" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="57.5" y="155" width="115" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Z3pyiciV5otv7Ie-agOa-4" value="支持证据统计" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Z3pyiciV5otv7Ie-agOa-4" value="支持证据统计" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="57.5" y="215" width="115" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Z3pyiciV5otv7Ie-agOa-5" value="达到观察条件？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -19,7 +19,7 @@
         <mxCell id="Z3pyiciV5otv7Ie-agOa-7" value="继续暂存观察" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="60" y="355" width="115" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Z3pyiciV5otv7Ie-agOa-8" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Z3pyiciV5otv7Ie-agOa-8" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fdedec;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="220" y="70" width="190" height="410" as="geometry" />
         </mxCell>
         <mxCell id="Z3pyiciV5otv7Ie-agOa-9" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -64,7 +64,7 @@
         <mxCell id="Z3pyiciV5otv7Ie-agOa-34" value="拒绝写入与审计记录" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="255" y="500" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Z3pyiciV5otv7Ie-agOa-35" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Z3pyiciV5otv7Ie-agOa-35" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eef3fd;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="450" y="85" width="190" height="370" as="geometry" />
         </mxCell>
         <mxCell id="Z3pyiciV5otv7Ie-agOa-36" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
