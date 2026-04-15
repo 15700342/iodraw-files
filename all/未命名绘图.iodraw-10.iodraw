@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="Z3pyiciV5otv7Ie-agOa-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="70" width="150" height="290" as="geometry" />
+          <mxGeometry x="40" y="70" width="150" height="280" as="geometry" />
         </mxCell>
         <mxCell id="Z3pyiciV5otv7Ie-agOa-2" value="候选模板进入暂存区" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="57.5" y="90" width="115" height="40" as="geometry" />
@@ -18,6 +18,21 @@
         </mxCell>
         <mxCell id="Z3pyiciV5otv7Ie-agOa-7" value="继续暂存观察" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="60" y="290" width="115" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Z3pyiciV5otv7Ie-agOa-8" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="70" width="150" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="Z3pyiciV5otv7Ie-agOa-9" value="整串回放校验" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="237.5" y="90" width="115" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Z3pyiciV5otv7Ie-agOa-10" value="动态泄露检查" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="237.5" y="180" width="115" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Z3pyiciV5otv7Ie-agOa-11" value="达到观察条件？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="210" width="112.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z3pyiciV5otv7Ie-agOa-12" value="继续暂存观察" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="290" width="115" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
