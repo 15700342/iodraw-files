@@ -22,22 +22,22 @@
         <mxCell id="rVNuSVc9j-qtscQkghcH-6" value="模板聚合" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="270" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="rVNuSVc9j-qtscQkghcH-7" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="rVNuSVc9j-qtscQkghcH-7" value="结构化重排" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="270" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="rVNuSVc9j-qtscQkghcH-8" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="rVNuSVc9j-qtscQkghcH-8" value="计算Top1与Top2差距" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="530" y="270" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rVNuSVc9j-qtscQkghcH-9" value="联合判定" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="390" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="rVNuSVc9j-qtscQkghcH-10" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="rVNuSVc9j-qtscQkghcH-10" value="本地证据充分？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="380" width="130" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="rVNuSVc9j-qtscQkghcH-11" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="rVNuSVc9j-qtscQkghcH-11" value="本地模板输出" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="360" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="rVNuSVc9j-qtscQkghcH-12" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="rVNuSVc9j-qtscQkghcH-12" value="边界样本" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="460" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rVNuSVc9j-qtscQkghcH-13" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
