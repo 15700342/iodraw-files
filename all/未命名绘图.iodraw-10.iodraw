@@ -34,8 +34,13 @@
         <mxCell id="Z3pyiciV5otv7Ie-agOa-8" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fdedec;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="220" y="70" width="190" height="410" as="geometry" />
         </mxCell>
-        <mxCell id="Z3pyiciV5otv7Ie-agOa-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Z3pyiciV5otv7Ie-agOa-9" target="Z3pyiciV5otv7Ie-agOa-34">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="Z3pyiciV5otv7Ie-agOa-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#f8cecc;strokeColor=#b85450;dashed=1;" edge="1" parent="1" source="Z3pyiciV5otv7Ie-agOa-9" target="Z3pyiciV5otv7Ie-agOa-34">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="210" y="120" />
+              <mxPoint x="210" y="515" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="Z3pyiciV5otv7Ie-agOa-9" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="231.88" y="90" width="166.25" height="60" as="geometry" />
@@ -46,10 +51,14 @@
         <mxCell id="Z3pyiciV5otv7Ie-agOa-14" value="模板能否解释完整日志" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="252.5" y="120" width="125" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Z3pyiciV5otv7Ie-agOa-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Z3pyiciV5otv7Ie-agOa-18" target="Z3pyiciV5otv7Ie-agOa-34">
+        <mxCell id="Z3pyiciV5otv7Ie-agOa-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#f8cecc;strokeColor=#b85450;dashed=1;" edge="1" parent="1" source="Z3pyiciV5otv7Ie-agOa-18" target="Z3pyiciV5otv7Ie-agOa-34">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="219.48" y="520" as="targetPoint" />
             <mxPoint x="191.35999999999999" y="200" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="210" y="200" />
+              <mxPoint x="210" y="515" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="Z3pyiciV5otv7Ie-agOa-18" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
@@ -64,8 +73,13 @@
         <mxCell id="Z3pyiciV5otv7Ie-agOa-20" value="变量内容是否误留为常量" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="246.25" y="200" width="137.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Z3pyiciV5otv7Ie-agOa-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="Z3pyiciV5otv7Ie-agOa-24" target="Z3pyiciV5otv7Ie-agOa-34">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="Z3pyiciV5otv7Ie-agOa-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1" source="Z3pyiciV5otv7Ie-agOa-24" target="Z3pyiciV5otv7Ie-agOa-34">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="200" y="280" />
+              <mxPoint x="200" y="515" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="Z3pyiciV5otv7Ie-agOa-24" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="231.88" y="250" width="166.25" height="60" as="geometry" />
@@ -79,8 +93,13 @@
         <mxCell id="Z3pyiciV5otv7Ie-agOa-26" value="关键常量是否被误抽象" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="246.25" y="280" width="137.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Z3pyiciV5otv7Ie-agOa-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Z3pyiciV5otv7Ie-agOa-30" target="Z3pyiciV5otv7Ie-agOa-34">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="Z3pyiciV5otv7Ie-agOa-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#f8cecc;strokeColor=#b85450;dashed=1;" edge="1" parent="1" source="Z3pyiciV5otv7Ie-agOa-30" target="Z3pyiciV5otv7Ie-agOa-34">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="200" y="360" />
+              <mxPoint x="200" y="515" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="Z3pyiciV5otv7Ie-agOa-30" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="231.88" y="330" width="166.25" height="60" as="geometry" />
