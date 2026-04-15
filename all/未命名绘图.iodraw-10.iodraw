@@ -10,8 +10,14 @@
         <mxCell id="Z3pyiciV5otv7Ie-agOa-2" value="候选模板进入暂存区" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="57.5" y="90" width="115" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Z3pyiciV5otv7Ie-agOa-4" value="候选模板进入暂存区" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Z3pyiciV5otv7Ie-agOa-4" value="支持证据统计" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="57.5" y="150" width="115" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Z3pyiciV5otv7Ie-agOa-5" value="达到观察条件？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="210" width="112.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z3pyiciV5otv7Ie-agOa-7" value="继续暂存观察" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="290" width="115" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
