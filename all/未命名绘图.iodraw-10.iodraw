@@ -22,6 +22,9 @@
         <mxCell id="Z3pyiciV5otv7Ie-agOa-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Z3pyiciV5otv7Ie-agOa-5" target="Z3pyiciV5otv7Ie-agOa-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="Z3pyiciV5otv7Ie-agOa-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Z3pyiciV5otv7Ie-agOa-5" target="Z3pyiciV5otv7Ie-agOa-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Z3pyiciV5otv7Ie-agOa-5" value="达到观察条件？" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="60" y="275" width="112.5" height="60" as="geometry" />
         </mxCell>
@@ -58,6 +61,9 @@
         <mxCell id="Z3pyiciV5otv7Ie-agOa-25" value="稳定锚点保护" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f09793;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="245" y="255" width="140" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="Z3pyiciV5otv7Ie-agOa-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Z3pyiciV5otv7Ie-agOa-26" target="Z3pyiciV5otv7Ie-agOa-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Z3pyiciV5otv7Ie-agOa-26" value="关键常量是否被误抽象" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="246.25" y="280" width="137.5" height="30" as="geometry" />
         </mxCell>
@@ -67,8 +73,17 @@
         <mxCell id="Z3pyiciV5otv7Ie-agOa-31" value="冲突检测" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f09793;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="245" y="335" width="140" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="Z3pyiciV5otv7Ie-agOa-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Z3pyiciV5otv7Ie-agOa-32" target="Z3pyiciV5otv7Ie-agOa-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Z3pyiciV5otv7Ie-agOa-32" value="是否与稳定模板冲突" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="246.25" y="360" width="137.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Z3pyiciV5otv7Ie-agOa-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Z3pyiciV5otv7Ie-agOa-33" target="Z3pyiciV5otv7Ie-agOa-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z3pyiciV5otv7Ie-agOa-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Z3pyiciV5otv7Ie-agOa-33" target="Z3pyiciV5otv7Ie-agOa-36">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Z3pyiciV5otv7Ie-agOa-33" value="全部检查通过？" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="242.5" y="410" width="145" height="50" as="geometry" />
@@ -85,8 +100,14 @@
         <mxCell id="Z3pyiciV5otv7Ie-agOa-37" value="模板吸附" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#aeccf9;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="475" y="142.5" width="140" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="Z3pyiciV5otv7Ie-agOa-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Z3pyiciV5otv7Ie-agOa-38" target="Z3pyiciV5otv7Ie-agOa-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Z3pyiciV5otv7Ie-agOa-38" value="优先合并到相近稳定模板" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="476.26" y="167.5" width="137.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Z3pyiciV5otv7Ie-agOa-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Z3pyiciV5otv7Ie-agOa-39" target="Z3pyiciV5otv7Ie-agOa-42">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Z3pyiciV5otv7Ie-agOa-39" value="稳定知识库写入" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="461.88" y="217.5" width="166.25" height="40" as="geometry" />
